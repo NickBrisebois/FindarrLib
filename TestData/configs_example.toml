@@ -1,0 +1,9 @@
+# configs.toml
+
+[TvInfo]
+username = "username"
+userKey = "user key"
+apiKey = "api key"
+
+[MovieInfo]
+apikey = "api key"
